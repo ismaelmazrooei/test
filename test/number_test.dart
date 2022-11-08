@@ -1,5 +1,5 @@
+import 'package:flutter_test/flutter_test.dart';
 import 'package:number/src/calculate_number.dart';
-import 'package:test/test.dart';
 
 ///لازم به ذکر است که  برناهه تست به حروف کوچ و برگ در  تکست حساس است
 void main() {
